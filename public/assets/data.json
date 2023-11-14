@@ -1,0 +1,59 @@
+{
+    "content": {
+        "tree": {
+            "klima": "Skov er det mest effektive middel til at hive kulstof ud af atmosfæren. Træer optager nemlig luftens CO2 gennem blade og nåle, når de vokser. Skovene er verdens lunger. Skov kan nemlig trække CO2 ud af atmosfæren og lagre det og dermed afhjælpe den massive belastning af klimaet, som gassen kuldioxid udgør.",
+            "holdbarhed": "Levetiden for træ er praktisk talt ubegrænset hvis det opbevares under de rette forhold.",
+            "genbrugsvenlig": "Træ kan genbruges af flere omgange i sine levetid.",
+            "kilder": [
+                "https://www.dn.dk/vi-arbejder-for/skov/skov-og-klima/",
+                "https://www.trae.dk/leksikon/holdbarhed-valg-af-trae/",
+                "https://www.bygcirkulaert.dk/portfolio-items/viden-om-trae/"
+            ]
+        },
+        "bambus": {
+            "klima": "Bambus er rigtig godt for miljøet; bambus frigiver mere ilt og optager 5 gange mere CO2 end en tilsvarende mængde træer. Der bruges ikke pesticider, kunstgødning eller kunstvanding til dyrkning af bambus, og der kan produceres omkring 10 gange mere bambus end bomuld pr.",
+            "holdbarhed": "I modsætning til træ, har bambus ikke giftige aflejringer, der kan hjælpe med bionedbrydning, derfor er den naturlige holdbarhed af ubehandlede bambusstænger lav. For de fleste arter under 2 år og 4-7 år under ideelle forhold (uden udsættelse for sol og regn).",
+            "genbrugsvenlig": "Bambus er et bæredygtigt materiale, der kan genbruges.",
+            "kilder": [
+                "https://sokkeposten.dk/faq/kategori/bambus"
+            ]
+        },
+        "glass": {
+            "klima": "Solcelle glas slipper meget lys ind, så du kan skære ned på behovet for kunstig belysning. Derudover behøver du ikke bruge Air Conditioning så ofte. Som resultat vil kuldioxidemissionerne fra dit hjem være meget mindre, hvilket gør dette meget godt for miljøet.",
+            "holdbarhed": "Solcelleglas er et miljøvenligt alternativ til andre typer glas. Det er også mere holdbar.",
+            "genbrugsvenlig": "",
+            "kilder": [
+                "https://www.aisglass.com/solar-glass-help/"
+            ]
+        },
+        "steel": {
+            "klima": "Rustfrit stål er et af verdens mest miljøvenlige metaller. Det er fordi, det ikke kan ruste, og er enormt holdbart.",
+            "holdbaroggenbrugsvenlig": "Når rustfrit stål produceres, er dets livscyklus potentielt uendelig fordi det er let at sortere fra andet materiale og affald med magneter og 100% genanvendeligt uden tab af kvalitet. Derfor kan rustfrit stål i praksis betragtes som et relativt bæredygtigt materiale.",
+            "kilder": [
+                "https://www.igoprofil.dk/content/landingspages/milj-venlige-produktmaterialer?PID=sustainable_dictionary#:~:text=Rustfrit%20st%C3%A5l,-Rustfrit%20st%C3%A5l%20er&text=Men%20den%20gode%20nyhed%20er,miste%20nogle%20af%20dets%20egenskaber.",
+                "https://grontkontor.dk/om-materialer-og-baeredygtighed/#:~:text=St%C3%A5l%20%2F%20jern&text=N%C3%A5r%20st%C3%A5l%20produceres%2C%20er%20dets,som%20et%20relativt%20b%C3%A6redygtigt%20materiale."
+            ]
+        },
+        "roofing": {
+            "klima": "Grønne tage er grønne åndehuller i byen. Planterne optager nemlig CO2 fra luften og udleder ilt i bytte. De kan også optage op mod 50-80 % af den regn, der falder på taget, og dermed mindske afledningen af regnvand til kloaksystemet. Det letter presset på kloaksystemet og mindsker risikoen for oversvømmelser.",
+            "holdbarhed": "Grønne tage har en lang levetid. Et sedumtag står flot år efter år og har en levetid på mere end 40 år ved korrekt drift og vedligeholdelse. Endelig har et grønt tag den fordel, at det beskytter det underliggende tagpap mod solens nedbrydende UV-stråler, hvilket forlænger pappets levetid.",
+            "genbrugsvenlig": "Såfremt man benytter miljøvenlige løsninger til tagmembran, rodspærrefolie og træ, der ikke er trykimprægneret, kan materialerne enten genbruges, brændes eller evt. komposteres.",
+            "kilder": [
+                "https://www.byggros.com/losninger/vaerd-at-vide-om-gronne-tage/hvorfor-skal-jeg-vaelge-et-gront-tag",
+                "https://natureimpact.com/fordele-og-ulemper-ved-groenne-tage/#:~:text=Gr%C3%B8nne%20tage%20har%20en%20lang,str%C3%A5ler%2C%20hvilket%20forl%C3%A6nger%20pappets%20levetid.",
+                "https://www.xn--bredygtigtbyggeri-rrb.dk/tag-groent#:~:text=fra%20producenternes%20side.-,Bortskaffelse,komposteres."
+            ]
+        },
+        "insolutation": {
+            "klima": "Isolering af cellulose er en miljøvenlig løsning, som også er godt for indeklimaet. Et hus isoleret med cellulose baseret isolering sikrer dig et godt indeklima. Isolering er et arbejde der kræver præcision, forsigtighed, og ekspertise. Isoleringen kan anvendes i tage, hældende tag, vægge og gulve.",
+            "holdbarhed": "Holdbarheden af celluloseisolering kan variere afhængigt af forskellige faktorer såsom installationens kvalitet, miljøforhold og korrekt vedligeholdelse. Generelt set kan celluloseisolering forventes at have en levetid på 20-30 år eller mere, hvis den installeres korrekt og ikke udsættes for fugt eller skader.",
+            "genbrugsvenlig": "",
+            "kilder": [
+                "https://miljøisolering.dk/#:~:text=Isolering%20af%20cellulose%20er%20en,ogs%C3%A5%20er%20godt%20for%20indeklimaet.&text=Et%20hus%20isoleret%20med%20cellulose%20baseret%20isolering%20sikrer%20dig%20et%20godt%20indeklima.&text=Isolering%20er%20et%20arbejde%20der%20kr%C3%A6ver%20pr%C3%A6cision%2C%20forsigtighed%2C%20og%20ekspertise.&text=Isoleringen%20kan%20anvendes%20i%20tage%2C%20h%C3%A6ldende%20tag%2C%20v%C3%A6gge%20og%20gulve."
+            ]
+        },
+        "infoboks": [
+            "Klimahuset er en turist attraktion, som er med til at forklare, hvad Rønde som by gør for at være mere grønne og klimavenlige. Det kan være med til at gøre privat personer, mere interesseret i at være mere grønne og klimavenlige."
+        ]
+    }
+}

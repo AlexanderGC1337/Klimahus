@@ -14,22 +14,24 @@ export default function Home() {
 
         <Link id={styles.link} href={"/house"}>
 
-          <img id={styles.logo} src={Data.content.globals.logo} alt="Logo" />
+          <img id={styles.logo} src={Data.content.globals.logo} alt="Logo" draggable="false" />
 
         </Link>
 
 
       </header>
 
-      <Link href={'/house'}>
+      <article id={styles.flexContainer}>
+        <Link href={'/house'}>
 
-        <img id={styles.tinyhouse} src={'https://unsplash.it/500/500'} alt="Logo" />
+          <img id={styles.tinyhouse} src={'https://unsplash.it/500/500'} alt="Logo" draggable="false" />
 
-      </Link>
+        </Link>
 
-      <section id={styles.infoboks}>
-        <h3 id={styles.infoboks_h3}>{Data.content.infoboks}</h3>
-      </section>
+        <section id={styles.infoboks}>
+          <h3 id={styles.infoboks_h3}>{Data.content.infoboks}</h3>
+        </section>
+      </article>
 
     </>
 

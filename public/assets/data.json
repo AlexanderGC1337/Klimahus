@@ -1,5 +1,8 @@
 {
     "content": {
+        "globals": {
+            "logo": "/assets/logo.png"
+        },
         "tree": {
             "klima": "Skov er det mest effektive middel til at hive kulstof ud af atmosfæren. Træer optager nemlig luftens CO2 gennem blade og nåle, når de vokser. Skovene er verdens lunger. Skov kan nemlig trække CO2 ud af atmosfæren og lagre det og dermed afhjælpe den massive belastning af klimaet, som gassen kuldioxid udgør.",
             "holdbarhed": "Levetiden for træ er praktisk talt ubegrænset hvis det opbevares under de rette forhold.",

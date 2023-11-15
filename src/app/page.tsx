@@ -14,8 +14,7 @@ export default function Home() {
 
         <Link id={styles.link} href={"/house"}>
 
-          {/* <img id={styles.logo} src={'https://unsplash.it/200/140'} alt="Logo" /> */}
-          <h2 id={styles.logo}>logo</h2>
+          <img id={styles.logo} src={Data.content.globals.logo} alt="Logo" />
 
         </Link>
 

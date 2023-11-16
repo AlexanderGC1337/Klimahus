@@ -1,0 +1,29 @@
+#container {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    #img {
+        width: 500px;
+    }
+}
+
+#h3 {
+    text-align: center;
+    margin-top: 8%;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 4rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#arrowleft {
+    padding: 1rem;
+    position: absolute;
+    filter: invert(1);
+}

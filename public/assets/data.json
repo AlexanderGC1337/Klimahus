@@ -1,7 +1,19 @@
 {
     "content": {
         "globals": {
-            "logo": "/assets/logo.png"
+            "logo": "/assets/logo.png",
+            "frontpage": "/assets/frontpage_img.jpg",
+            "cafe": "/assets/drivhus_cafe.png",
+            "drivhus_siden": "/assets/klimahus_drivhusSiden.png",
+            "stueplan": "/assets/klimahus_final_final.png",
+            "hovedbygning": "/assets/klimahus_Hovedbygning.png",
+            "arrowleft": "/assets/arrow-left.png"
+        },
+
+        "koncept": {
+            "images1": "/assets/klimahus_Hovedbygning.png",
+            "images2": "/assets/drivhus_cafe.png",
+            "images3": "/assets/klimahus_drivhusSiden.png"
         },
         "tree": {
             "klima": "Skov er det mest effektive middel til at hive kulstof ud af atmosfæren. Træer optager nemlig luftens CO2 gennem blade og nåle, når de vokser. Skovene er verdens lunger. Skov kan nemlig trække CO2 ud af atmosfæren og lagre det og dermed afhjælpe den massive belastning af klimaet, som gassen kuldioxid udgør.",
@@ -14,11 +26,12 @@
             ]
         },
         "bambus": {
-            "klima": "Bambus er rigtig godt for miljøet; bambus frigiver mere ilt og optager 5 gange mere CO2 end en tilsvarende mængde træer. Der bruges ikke pesticider, kunstgødning eller kunstvanding til dyrkning af bambus, og der kan produceres omkring 10 gange mere bambus end bomuld pr.",
+            "klima": "Planten er enormt hurtigt voksende og kan vokse en meter i døgnet dermed bambus er et bæredygtigt og smart alternativ til træ, eftersom at bambus er hårdere og mere slidstærkt end mange træsorter, og ydermere har planten bakteriehæmmende egenskaber. Bambus er bedst i verden til at optage CO2 og producere ilt.",
             "holdbarhed": "I modsætning til træ, har bambus ikke giftige aflejringer, der kan hjælpe med bionedbrydning, derfor er den naturlige holdbarhed af ubehandlede bambusstænger lav. For de fleste arter under 2 år og 4-7 år under ideelle forhold (uden udsættelse for sol og regn).",
             "genbrugsvenlig": "Bambus er et bæredygtigt materiale, der kan genbruges.",
             "kilder": [
-                "https://sokkeposten.dk/faq/kategori/bambus"
+                "https://sokkeposten.dk/faq/kategori/bambus",
+                "https://bambus-produkter.dk/baeredygtighed/"
             ]
         },
         "glass": {

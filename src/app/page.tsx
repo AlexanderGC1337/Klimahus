@@ -1,7 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import Image from "next/image";
 import styles from "./page.module.scss";
-import Page from "./house/page";
 import Link from "next/link";
 import Data from "../../public/assets/data.json"
 
@@ -10,23 +8,15 @@ export default function Home() {
 
     <>
 
-      <header id={styles.headerContainer}>
-
-        <Link id={styles.link} href={"/house"}>
-
-          <img id={styles.logo} src={Data.content.globals.logo} alt="Logo" draggable="false" />
-
-        </Link>
-
-
-      </header>
 
       <article id={styles.flexContainer}>
         <Link href={'/house'}>
 
-          <img id={styles.tinyhouse} src={'https://unsplash.it/500/500'} alt="Logo" draggable="false" />
+          <img id={styles.klimahus} src={Data.content.globals.frontpage} alt="Logo" draggable="false" />
 
         </Link>
+
+        <Link id={styles.koncept} href={'/koncept'}>Koncept</Link>
 
         <section id={styles.infoboks}>
           <h3 id={styles.infoboks_h3}>{Data.content.infoboks}</h3>
